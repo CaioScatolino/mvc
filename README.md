@@ -1,3 +1,7 @@
+## Preview
+![image](https://user-images.githubusercontent.com/66438920/199837146-0c7a44d4-53df-463f-9868-829d444b19c5.png)
+
+
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
